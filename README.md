@@ -1,0 +1,1 @@
+# napi-current-env
