@@ -1,6 +1,6 @@
 [package]
 name = "napi-current-env"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2024"
 description = "🪛 Well-known global for the current napi::Env"
 repository = "https://github.com/jcbhmr/napi-current-env"
