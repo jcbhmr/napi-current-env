@@ -1,5 +1,8 @@
 {
     "image": "mcr.microsoft.com/devcontainers/rust",
+    "features": {
+        "ghcr.io/devcontainers/features/node": {}
+    },
     "customizations": {
         "vscode": {
             "extensions": [
